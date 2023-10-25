@@ -1,1 +1,1 @@
-{{ cookiecutter.what_should_go_here? }}
+{{ cookiecutter.short_desc }}
