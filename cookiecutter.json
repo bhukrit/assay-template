@@ -3,4 +3,5 @@
     "date": "Date of sequencing",
     "owner": "Who performed the experiment?",
     "short_desc": "Provide a short summary of the experiment"
+    "omic_type" : "Which omics type, genomic, proteomic, metabolomic"
 }
